@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RPG Dice Roller</string>
+    <string name="roll_d4_label">Roll D4</string>
+    <string name="roll_d6_label">Roll D6</string>
+    <string name="roll_d8_label">Roll D8</string>
+    <string name="roll_d10_label">Roll D10</string>
+    <string name="roll_d12_label">Roll D12</string>
+    <string name="roll_d20_label">Roll D20</string>
+    <string name="choose_your_dice_and_roll_text">Choose your dice and roll!</string>
+</resources>
